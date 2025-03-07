@@ -1,0 +1,9 @@
+[submodule "finance-binance-getaway"]
+	path = ../finance-binance-getaway
+	url = git@github.com:orlinzer/finance-binance-getaway.git
+[submodule "finance-documents"]
+	path = ../finance-documents
+	url = git@github.com:orlinzer/finance-documents.git
+[submodule "finance-web-ui"]
+	path = ../finance-web-ui
+	url = git@github.com:orlinzer/finance-web-ui.git

@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "../finance-documents"
+    },
+    {
+      "path": "../finance-binance-getaway"
+    },
+    {
+      "path": "../finance-repositories"
+    },
+    {
+      "path": "../finance-web-ui"
+    },
+    {
+      "path": "."
+    }
+  ]
+}
