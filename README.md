@@ -6,9 +6,10 @@ This repository contains a collection of finance-related repositories that I hav
 
 ## Repositories
 
-- [**`finance-documents`**](https://github.com/orlinzer/finance-documents)
+- [**`finance-documentation`**](https://github.com/orlinzer/finance-documentation)
 - [**`finance-binance-getaway`**](https://github.com/orlinzer/finance-binance-getaway)
 - [**`finance-repositories`**](https://github.com/orlinzer/finance-repositories)
+- [**`finance-predictions-service`**](https://github.com/orlinzer/finance-predictions-service)
 - [**`finance-web-ui`**](https://github.com/orlinzer/finance-web-ui)
 
 ## Usage
@@ -18,5 +19,12 @@ To use this repository, simply clone it to your local machine and navigate to th
 ```bash
 git clone git@github.com:orlinzer/finance-repositories.git
 cd finance-repositories
+git submodule update --init --recursive
+```
+
+```bash
+cd finance-documentation
+git fetch
+git pull
 git submodule update --init --recursive
 ```
