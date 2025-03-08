@@ -13,6 +13,9 @@
       "path": "."
     },
     {
+      "path": "./finance-web-components"
+    },
+    {
       "path": "./finance-web-ui"
     }
   ]
