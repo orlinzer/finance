@@ -1,22 +1,19 @@
 {
   "folders": [
     {
-      "path": "../finance-documentation"
+      "path": "./finance-documentation"
     },
     {
-      "path": "../finance-binance-getaway"
+      "path": "./finance-binance-getaway"
     },
     {
-      "path": "../finance-repositories"
-    },
-    {
-      "path": "../finance-predictions-service"
-    },
-    {
-      "path": "../finance-web-ui"
+      "path": "./finance-predictions-service"
     },
     {
       "path": "."
+    },
+    {
+      "path": "./finance-web-ui"
     }
   ]
 }
