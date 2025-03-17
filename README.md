@@ -10,6 +10,7 @@ This repository contains a collection of finance-related repositories that I hav
 - [**`finance-binance-getaway`**](https://github.com/orlinzer/finance-binance-getaway)
 - [**`finance-predictions-service`**](https://github.com/orlinzer/finance-predictions-service)
 - [**`finance-repositories`**](https://github.com/orlinzer/finance-repositories)
+- [**`finance-ui-components`**](https://github.com/orlinzer/finance-ui-components)
 - [**`finance-web-ui`**](https://github.com/orlinzer/finance-web-ui)
 
 ## Usage
@@ -29,4 +30,13 @@ cd finance-repositories
 git fetch
 git pull
 git submodule update --init --recursive
+```
+
+To remove a submodule, run the following commands.
+
+```bash
+cd finance-repositories
+git submodule deinit -f finance-documentation
+git rm -f finance-documentation
+rm -rf .git/modules/finance-documentation
 ```

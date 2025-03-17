@@ -13,7 +13,7 @@
       "path": "."
     },
     {
-      "path": "./finance-web-components"
+      "path": "./finance-ui-components"
     },
     {
       "path": "./finance-web-ui"
