@@ -32,6 +32,13 @@ git pull
 git submodule update --init --recursive
 ```
 
+To add a submodule, run the following commands.
+
+```bash
+cd finance-repositories
+git submodule add <repository-url> <repository-name>
+```
+
 To remove a submodule, run the following commands.
 
 ```bash
