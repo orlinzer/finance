@@ -1,16 +1,16 @@
 {
   "folders": [
     {
-      "path": "./finance-documentation"
+      "path": "."
     },
     {
       "path": "./finance-binance-getaway"
     },
     {
-      "path": "./finance-predictions-service"
+      "path": "./finance-documentation"
     },
     {
-      "path": "."
+      "path": "./finance-predictions-service"
     },
     {
       "path": "./finance-ui-components"
